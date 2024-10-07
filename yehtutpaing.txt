@@ -1,3 +1,7 @@
 Hello World!!! My name is Ye Htut Paing
 
+<<<<<<< HEAD
 I like yellow
+=======
+I like playing music
+>>>>>>> practice03
